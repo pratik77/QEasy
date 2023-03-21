@@ -20,12 +20,12 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences:
-  flutter_svg: 
+  flutter_svg: any 
   provider:
-  json_annotation: 
-  retrofit: 
-  dio: 
-  location: ^3.0.2
+  json_annotation: any 
+  retrofit: any 
+  dio: any 
+  location: ">=3.0.2 <5.0.0"
   geocoder: ^0.2.1
   qr_flutter: ^3.2.0
   qr_code_scanner: ^0.0.12
@@ -37,9 +37,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: 
-  json_serializable: 
-  retrofit_generator: 
+  build_runner: any 
+  json_serializable: any 
+  retrofit_generator: any 
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
